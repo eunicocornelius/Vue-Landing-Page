@@ -1,0 +1,36 @@
+[{
+"name":"Bayi",
+"id":1,
+"disc_price":"19.900",
+"price_f":"14",
+"price_b":".900",
+"pengguna": "938",
+"best":false
+},
+{
+"name":"Pelajar",
+"id":2,
+"disc_price":"46.900",
+"price_f":"23",
+"price_b":".450",
+"pengguna": "4.168",
+"best":false
+},
+{
+"name":"Personal",
+"id":3,
+"disc_price":"58.900",
+"price_f":"38",
+"price_b":".900",
+"pengguna": "10.017",
+"best":true
+},
+{
+"name":"Bisnis",
+"id":4,
+"disc_price":"109.000",
+"price_f":"65",
+"price_b":".900",
+"pengguna": "3.552",
+"best":false
+}]
